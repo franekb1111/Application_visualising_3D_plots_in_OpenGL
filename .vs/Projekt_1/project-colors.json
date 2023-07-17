@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac761c4b-7e2e-483f-8503-d1f4dc0d412d": {
+      "ProjectGuid": "ac761c4b-7e2e-483f-8503-d1f4dc0d412d",
+      "DisplayName": "Shaders05",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+C:\Users\frane\Desktop\grafika_komputerowa_3D\Przyklad5\Debug\Shaders05.exe
+C:\Users\frane\Desktop\grafika_komputerowa_3D\Projekt_1\Debug\Shaders05.exe
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\Debug\Projekt_1.exe

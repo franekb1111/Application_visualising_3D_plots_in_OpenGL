@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Shaders05.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(77,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(86,12): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(90,25): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(94,33): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(98,13): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(202,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(203,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(300,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(307,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(317,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(334,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\main.cpp(402): warning C4715: "wybor_funkcji”: niewszystkie ścieżki kodu zwracają wartość
+  Shaders05.vcxproj -> C:\Users\franekb1111\OneDrive\Pulpit\grafikakomputerowa3d\Projekt_1_v2\Debug\Projekt_1.exe
